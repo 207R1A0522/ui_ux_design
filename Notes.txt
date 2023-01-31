@@ -1,0 +1,12 @@
+User Interface(UI) -- What we see on screen
+User Experience(UX) -- Which is experienced by the user
+----------------------------------------------------------------------------
+Steps To Create User Interface(UI) :-
+1)Sketch(roughly drawn manually)
+2)Wireframe(geometrical shapes...better than sketch)
+3)Mockup
+4)Prototype(add new pages to the already creqated buttons)
+5)Final Design(adds colours to the pages to clearly identify)
+
+
+

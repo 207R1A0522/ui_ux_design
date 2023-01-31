@@ -1,0 +1,14 @@
+Steps to follow
+1)Open the app
+2)Open new file
+3)adjust the rectangular box of length using LMB hold and drag to canvas.
+-------------------------------------------------------------------------
+Three types of Web pages:
+1)Static:
+	We can browse only-not respond,webcontent.
+2)Dynamic:
+	having login,signin,ignup,registration forms,upload content,download content,we can login.
+	It does not respond to our devices.
+3)Responsive:
+	Dynamic content are also having responsive webpages.
+	It responds to our devices.
